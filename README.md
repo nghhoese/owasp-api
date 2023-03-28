@@ -6,7 +6,7 @@ Authors:
 Ferran Hendriks
 Nick van Hoesel
 
-#about
+# About
 This is an api that has some simple crud functionality.
 The real value is in the security. We implemented the owasp top 10 in this api to learn more about security.
 We have also used integration testing to test the security using an in memory variant of the api.
